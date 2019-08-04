@@ -1,8 +1,8 @@
 <!DOCTYPE html> 
 <html>
      <head>
-          <meta name="keywords" content="厦门大学 xiamendaxue XIAMENDAXUE 厦大">
-		      <title>厦门大学—厦门大学</title>
+          <meta name="keywords" content="佳成摄影 jiacheng JIACHENG 佳成">
+		      <title>佳成摄影—佳成摄影</title>
 		      <link rel="stylesheet" type="text/css" href="css_file/xiamen_university.css">
 	   </head>
 	   <body>
@@ -13,14 +13,14 @@
 				                 	<div class="navigation">
 					                    	<ul>
                                     &nbsp;<li><a href="#">&nbsp;&nbsp;&nbsp;&nbsp;主页</a></li>
-						                       	<li><a href="#">厦大概览</a></li>
-						                        <li><a href="#">机构设置</a></li>
-					                       		<li><a href="#">人才培养</a></li>
-					                       		<li><a href="#">学术科研</a></li>
-						                      	<li><a href="#">社会服务</a></li>
-							                      <li><a href="#">大学文化</a></li>
-						                      	<li><a href="#">合作交流</a></li>
-						                       	<li><a href="#">招生就业</a></li>
+						                       	<li><a href="#">网站首页</a></li>
+						                        <li><a href="#">优秀作品</a></li>
+					                       		<li><a href="#">拍拍秀</a></li>
+					                       		<li><a href="#">关于团队</a></li>
+						                      	<li><a href="#">活动资讯</a></li>
+							                <li><a href="#">行业动态</a></li>
+						                      	<li><a href="#">公司简介</a></li>
+						                       	<li><a href="#">活动资讯</a></li>
 						                       	<li><a href="#">English</a></li>
 					                    	</ul>
 				                   </div>
@@ -28,7 +28,7 @@
 					                <div class="div1-1">
 					                    	<dl>
 						                       <dt class="title_icon"><img src="images/ico1.jpg" ></dt>
-						                       <dt class="ico_font">厦大新闻</dt>
+						                       <dt class="ico_font">古风主题拍拍秀</dt>
 						                       <dt class="title_icon2"><img src="images/ico2.jpg"></dt>
 					                     </dl>
 						                   <div class="div1-1_">
@@ -63,7 +63,7 @@
 				                	<div class="div1-2">
 							                       <dl>
 							                          <dt class="title_icon"><img src="images/ico1.jpg" ></dt>
-								                        <dt class="ico_font">焦点要闻</dt>
+								                        <dt class="ico_font">清纯主题拍拍秀</dt>
 								                        <dt class="title_icon2"><img src="images/ico2.jpg"></dt>
 						                      	</dl>
 							                      <div class="div1-2_">
@@ -71,7 +71,7 @@
                                                郑南峰、傅钢等合作研究成果发表于《科学》
 								                               <p>贵金属催化剂广泛应用于能源、环保、食品加工等重要化工领域。如何提升贵金属利用率，同时维持高的催化剂活性、选择性和长的使用寿命一直是贵金属催化剂研制的...<a href="#">[详细]</a></p>
 								                          </div>
-                                          <div class="div1-2_1-2"><img src="images/chart1.jpg"></div>
+                                          <div class="div1-2_1-2"><img src="C:/Users/脚指甲上的泥巴/Desktop/timg.jpg"></div>
 								                          <div class="div1-2_2-1"><img src="images/chart2.jpg"></div>
 								                          <div class="div1-2_1-1" id="float_">
 									                               “改”出一片新天地——厦门大学研究生培养质量大幅提升
@@ -83,8 +83,8 @@
 			                	</div>
 				                <div class="div1-3">
 						                           	<dl>
-							                             <dt class="title_icon"><img src="images/ico1.jpg" ></dt>
-							                             <dt class="ico_font">焦点要闻</dt>		
+							                             <dt class="title_icon"><img src="C:/Users/脚指甲上的泥巴/Desktop/timg7SVAE7DK.jpg" ></dt>
+							                             <dt class="ico_font">性感主题拍拍秀</dt>		
 						                           </dl>	
 							                         <div class="div1-3_">
 							                              <div class="bgchart"></div>
